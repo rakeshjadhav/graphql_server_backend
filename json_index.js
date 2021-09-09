@@ -7,9 +7,9 @@ const app = express()
 const port = process.env.PORT || 5000;
 
 var Owners = [
-    { id: 1, name: 'John Astle' },
+    { id: 1, name: 'Rakesh Jadhav' },
     { id: 2, name: 'Gautam Sharma' },
-    { id: 3, name: 'Kane Williamson' }
+    { id: 3, name: 'Rajesh' }
 ]
 
 var Websites = [
